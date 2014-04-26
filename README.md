@@ -12,3 +12,11 @@ The number 123 has the following binary flags set:
 32
 64
 ```
+
+## Install
+
+This is designed to run as a command line tool and should be installed globally
+
+```
+npm install -g binary-values
+```
